@@ -31,18 +31,14 @@ SOLUTION
 │     └── React_Project_2.gif
 ├── src
 │    ├── components
-│    │       ├── cards
-│    │       │       └── Card.jsx
-│    │       │       └── Card.css
-│    │       ├── Footer
-│    │       │       └── Card.jsx
-│    │       │       └── Card.css
-│    │       ├── Header
-│    │       │       └── Header.jsx
-│    │       │       └── Header.css
-│    │       ├── Navbar
-│    │       │       └── Navbar.jsx
-│    │       │       └── Navbar.css
+│    │       ├── Card.jsx
+│    │       │       
+│    │       ├── Header.jsx
+│    │       │       
+│    │       ├── Language.jsx
+│    │       │       
+│    ├── assets
+│    │       └── (pngs and svg)
 │    ├── helper
 │    │       └── data.js
 │    ├── App.js
