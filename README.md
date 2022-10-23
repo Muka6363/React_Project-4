@@ -28,7 +28,7 @@ SOLUTION
 ├── public
 │     └── favicon.ico
 │     └── index.html
-│     └── React_Project_2.gif
+│     └── React_Project_4.gif
 ├── src
 │    ├── components
 │    │       ├── Card.jsx
